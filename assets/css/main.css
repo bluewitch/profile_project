@@ -3254,7 +3254,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: rgb(88, 88, 35); /**#b74e91*/
 		}
 
 		.wrapper.style3-alt {
